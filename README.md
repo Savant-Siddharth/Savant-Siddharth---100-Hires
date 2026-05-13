@@ -9,15 +9,16 @@ Tools Installed :
 - Github
 
 Sequence of steps for set-up :
-1. Installed Cursor IDE
-2. Signed up using Google account
-3. Opened Cursor IDE 
-4. Created new project with flolder name 'Savant'
-5. Opened Extentions and Installed 'Claude Code' and 'Codex'
-6. Signed in into Github
-7. Created New Repository and enabled README files
-8. Edited README.md file to describe steps, tools and issues
-9. Commit changes and pushed to Github
+1.  Installed Cursor IDE
+2.  Signed up using Google account
+3.  Opened Cursor IDE 
+4.  Created new project with flolder name 'Savant'
+5.  Opened Extentions and Installed 'Claude Code' and 'Codex'
+6.  Signed in into Github
+7.  Created New Repository and enabled README files
+8.  Edited README.md file to describe steps, tools and issues
+9.  Took a screenshot of Cursor IDE with installed extensions and uploaded it to Github respository 
+10. Commit changes and pushed to Github
 
 Issues I ran into and how I resolved them :
 
